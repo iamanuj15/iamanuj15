@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm a students
+i'm a btech cse (data science) students
 
 
 ## 🌐 Socials:
